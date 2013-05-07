@@ -1,7 +1,7 @@
 node_modules
-modernizr.min.js
+!modernizr.min.js
 metadata.json
-build
+!build
 dist
 tmp
 .DS_Store
